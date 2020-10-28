@@ -1,0 +1,122 @@
+.img{
+    padding-top: 20px;
+    border-radius: 50%;
+    width: 200 px;
+    height: 200 px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.grid_11 h3{
+    font-size: 50px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    font-family: 'Rainbow Universe';
+    text-align: center;
+    line-height: 60px;
+}
+.grid_11 h6{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 100;
+    font-family: 'DK Lemon Yellow Sun';
+    text-align: center;
+    line-height: 20px;
+}
+.grid_12{
+    margin-top: 60px;
+}
+.educ{
+    font-size: 20px;
+    font-weight: 100;
+    font-family: 'BabyDoll';
+    line-height: 40px;
+    list-style: none;
+    padding-left: 40px;
+
+}
+
+.edu{
+    font-size: 20px;
+    font-weight: 100;
+    font-family: 'BabyDoll';
+    line-height: 40px;
+    list-style: none;
+}
+
+.grid_12 h2{
+    font-size: 35px;
+    font-weight: 100;
+    font-family: 'Sweet Purple';
+    padding-left: 10px;
+    padding-top: 20px;
+    
+}
+.grid_10 {
+    margin-top: 10px;
+}
+
+.grid_10 pre{
+    font-size: 20px;
+    font-weight: 100;
+    font-family: 'BabyDoll';
+    line-height: 35px;
+}
+.grid_10 h2{
+    font-size: 35px;
+    font-weight: 100;
+    font-family: 'Sweet Purple';
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.grid_14 {
+    margin-top: 10px;
+    padding-bottom: 60px;
+}
+.grid_14 h3{
+    font-size: 35px;
+    font-weight: 100;
+    font-family: 'Sweet Purple';
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.grid_14 ul{
+    margin: 0;
+    padding: 0;
+}
+.grid_14 li{
+    display: inline-block;
+    margin: 5px;
+    padding-right: 20px;
+    padding-left: 10px;
+    list-style: none;
+}
+.grid_14 h2{
+    font-size: 20px;
+    font-weight: 100;
+    font-family: 'BabyDoll'; 
+    text-align: center;
+}
+.grid_14 img{
+    border: 5px solid #132951;
+}
+
+.grid_24 ul{
+    margin: 0;
+    padding: 18px;
+}
+.grid_24 li{
+    display: inline-block;
+    margin: 0px;
+    padding-right: 110px;
+    list-style: none;
+}
+.grid_24 h2{
+    font-size: 20px;
+    font-weight: 100;
+    font-family: 'Sweet Purple'; 
+    display: inline;
+    color: white;
+}
