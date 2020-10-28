@@ -41,8 +41,6 @@ function connection() {
         <div class="grid_12" style="background-color: #CCCCCC; border: 5px solid #132951;">
             <h2>Formal Education</h2>
             <?php 
-                //proses menampilkan data dari database:
-                //siapkan query SQL
                 $query = "SELECT * FROM cv order by education_year desc";
                 $result = mysqli_query(connection(),$query);
             ?>
